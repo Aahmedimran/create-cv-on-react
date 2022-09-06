@@ -1,0 +1,43 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    
+   
+}
+h1{
+    color: brown;
+}
+
+h1{
+    padding: 20px;
+}
+.firstheadingnum{
+    padding-left: 20px;
+    font-weight: bold;
+}
+.container{
+    display: flex;
+    gap: 4vh;
+    align-items: baseline;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+.container>.heading{
+    color: brown;
+    
+}
+.heading-adju{
+    color: brown;
+   margin-right: 50px;
+}
+.heading-adju1{
+    color: brown;
+   margin-right: 22px;
+}
+.heading-adju2{
+    color: brown;
+   margin-right: 9px;
+}
+table>td>th{
+    margin: 200px;
+}
